@@ -247,12 +247,12 @@ Designed, coded, and deployed a Python-based OCR solution end-to-end, reducing m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakthivelarulvel20&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-ruddy-two-18.vercel.app/api?username=shakthivelarulvel20&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&cache_seconds=1800" />
 <img height="165" src="https://streak-stats.demolab.com?user=shakthivelarulvel20&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakthivelarulvel20&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" />
+<img src="https://github-readme-stats-ruddy-two-18.vercel.app/api/top-langs/?username=shakthivelarulvel20&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" />
 
 </div>
 
