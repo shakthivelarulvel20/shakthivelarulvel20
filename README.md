@@ -235,6 +235,9 @@ Designed, coded, and deployed a Python-based OCR solution end-to-end, reducing m
 <div align="center">
 
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
 
@@ -244,12 +247,24 @@ Designed, coded, and deployed a Python-based OCR solution end-to-end, reducing m
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakthivelarulvel20&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&cache_seconds=1800" />
+<img height="165" src="https://streak-stats.demolab.com?user=shakthivelarulvel20&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9" />
+
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakthivelarulvel20&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_seconds=1800" />
 
 </div>
 
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shakthivelarulvel20&theme=dark&no-frame=true&no-bg=true&margin-w=15&column=7&title=Contributor,Committer,Repositories,Stars,Followers" />
+
+</div>
 
 ---
 
@@ -258,6 +273,16 @@ Designed, coded, and deployed a Python-based OCR solution end-to-end, reducing m
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakthivelarulvel20&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shakthivelarulvel20/shakthivelarulvel20/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
