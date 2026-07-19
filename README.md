@@ -258,15 +258,6 @@ Designed, coded, and deployed a Python-based OCR solution end-to-end, reducing m
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shakthivelarulvel20&theme=dark&no-frame=true&no-bg=true&margin-w=15&column=7&title=Contributor,Committer,Repositories,Stars,Followers" />
-
-</div>
-
----
 
 ### 📈 Contribution Activity
 
@@ -278,15 +269,6 @@ Designed, coded, and deployed a Python-based OCR solution end-to-end, reducing m
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shakthivelarulvel20/shakthivelarulvel20/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 ### 🎯 Current Focus
 
