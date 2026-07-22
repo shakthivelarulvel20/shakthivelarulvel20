@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<a href="https://aura-journal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
+<a href="https://shakthivel-sde.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
 <a href="https://linkedin.com/in/shakthivel-a-b873b5278"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
 <a href="mailto:shakthivelarulvel20@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
 <a href="https://github.com/shakthivelarulvel20"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" /></a>
@@ -301,7 +301,7 @@ Open To:
 <a href="mailto:shakthivelarulvel20@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
 <a href="https://linkedin.com/in/shakthivel-a-b873b5278"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" /></a>
 <a href="https://github.com/shakthivelarulvel20"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" /></a>
-<a href="https://aura-journal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
+<a href="https://shakthivel-sde.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
 
 </div>
 
